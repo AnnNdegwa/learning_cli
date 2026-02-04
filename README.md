@@ -1,23 +1,20 @@
 #Learning Cli
 
-learning cli is all about the basic git commands and making folders and files, and moving into them.
+learning cli is all about the basic git commands, making folders,files, and navigating through them.
 
 
-I have learnt the following
+I have learned the following:
 
-1.mkdir-making folders
+1.*mkdir*-making folders
 
-2.touch-creating files
+2.*touch*-creating files
 
-3.cat-viewing file content
+3.*cat*-viewing file content
 
-4.cp-copying folders and files and moving into them
+4.*cp*-copying folders and files and moving into them
 
-5.git init-initializing git repos
+5.*git init*-initializing git repos
 
+*Author*
 
-#Author
-
-
-Ann Ndegwa
-
+*Ann Ndegwa*
